@@ -21,4 +21,4 @@ Pickle
 random_forest_classifier.pkl: Trained model
 requirements.txt: Python dependencies
 
-app link: https://akshata-sql-python-project.streamlit.app/
+app link: https://akshata-sql-python-ml-project.streamlit.app/
